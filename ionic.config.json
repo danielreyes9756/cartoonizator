@@ -1,0 +1,7 @@
+{
+  "name": "cartoonizator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
